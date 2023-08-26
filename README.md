@@ -21,3 +21,4 @@ The screen views would be :
 
 ![image](https://github.com/silvi-12/Hacknow-Hackathon-Submission-2023/assets/113467810/dae5e2b3-8775-4438-8dd6-f59864745185)
 
+A ppt has been attached herewith, for better understanding of the todo list app development project. 
